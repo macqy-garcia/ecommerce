@@ -1,6 +1,6 @@
-# Welcome to Remix!
+# Welcome to Open Ecommerce (OE)
 
-- [Remix Docs](https://remix.run/docs)
+- [OE Docs](https://remix.run/docs)
 
 ## Deployment
 
